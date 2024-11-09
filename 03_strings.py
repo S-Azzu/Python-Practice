@@ -1,0 +1,7 @@
+fact=("distance relationship can ruin your life")
+print(len(fact))
+print(fact.endswith("life"))
+print(fact.count("a"))
+print(fact.capitalize())
+print(fact.find("azzu"))
+print(fact.replace("can","your"))
